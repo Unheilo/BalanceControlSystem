@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5790208d-7c77-4cdc-a50d-4258671de4e4">
+  <producedTypes>
+    <managerType typeId="61fe5cdc-bcfe-4738-bd90-f75f84a59b3b" valueTypeId="6af6bc8c-f261-45a6-aea7-2f3e15830c07"/>
+    <valueManagerType typeId="572acf6e-4434-4124-903d-d43f9e3edc9b" valueTypeId="6a4c3e51-cc11-44c5-bad6-ca2e195b83da"/>
+    <valueKeyType typeId="152e5820-f68f-4eb0-8a0f-51ba1dacf2c2" valueTypeId="ea3622d8-16c1-4430-97ff-a161f47f4b32"/>
+  </producedTypes>
+  <name>DisableBalanceControlSystem</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отключить систему контроля остатков</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Disable balance control system</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

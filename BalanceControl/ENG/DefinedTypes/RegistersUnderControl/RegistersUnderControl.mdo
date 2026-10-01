@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e438b515-dbde-463f-b81b-290b7e101536">
+  <producedTypes>
+    <containerType typeId="c5f3c61e-445d-4870-803d-9a57d526b989" valueTypeId="d4487ee5-7e4e-4cf3-b902-576b2a348855"/>
+  </producedTypes>
+  <name>RegistersUnderControl</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистры под контролем</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Registers under control</value>
+  </synonym>
+  <comment>Наборы записей регистров накопления остатков, по которым работает контроль</comment>
+  <type/>
+</mdclass:DefinedType>

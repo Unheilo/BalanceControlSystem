@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="56461aa6-bde4-4230-8884-a2f962878f41">
+  <producedTypes>
+    <containerType typeId="75013e3f-9b73-4132-83e5-865016fe2252" valueTypeId="d3b81fa7-0495-42d8-83b4-2fe0a4f47665"/>
+  </producedTypes>
+  <name>BalanceControlDocuments</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документы под контролем</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Balance control documents</value>
+  </synonym>
+  <comment>Документы, при записи и проведении которых контролируются остатки</comment>
+  <type/>
+</mdclass:DefinedType>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="789afc52-6380-463e-b71f-ec3d3895c723">
+  <producedTypes>
+    <containerType typeId="e69a4dc9-3b4b-4a83-9641-dc6c6f3ab639" valueTypeId="44dbb952-7c9b-467c-a915-bb49176e87d8"/>
+  </producedTypes>
+  <name>ДокументыПодКонтролем</name>
+  <synonym>
+    <key>ru</key>
+    <value>Документы под контролем</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Documents under control</value>
+  </synonym>
+  <comment>Документы, при записи и проведении которых контролируются остатки</comment>
+  <type/>
+</mdclass:DefinedType>

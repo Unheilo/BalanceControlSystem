@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cecde17f-9f3f-4904-9e12-006fe709494f">
+  <name>СистемаКонтроляОстатков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Система контроля остатков</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Balance control system</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>CommonModule.БиблиотекаКонтроляОстатков</content>
+  <content>CommonModule.БиблиотекаКонтроляОстатковПереопределяемый</content>
+  <content>DefinedType.ДокументыПодКонтролем</content>
+  <content>DefinedType.РегистрыПодКонтролем</content>
+  <content>EventSubscription.КонтрольОстатков_Документы_ПередЗаписью</content>
+  <content>EventSubscription.КонтрольОстатков_Документы_ПриЗаписи</content>
+  <content>EventSubscription.КонтрольОстатков_Документы_ОбработкаПроведения</content>
+  <content>Constant.ОтключитьСистемуКонтроляОстатков</content>
+</mdclass:Subsystem>

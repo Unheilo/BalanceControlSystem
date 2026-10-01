@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="aea8b05b-99ab-4599-b7e5-4ff3237df4c7">
+  <name>БиблиотекаКонтроляОстатков</name>
+  <synonym>
+    <key>ru</key>
+    <value>Библиотека контроля остатков</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Balance control library</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:EventSubscription xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="156897f2-14d6-4cad-8eb3-ea8fa75930b9">
+  <name>BalanceControl_Documents_Posting</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контроль остатков: документы обработка проведения</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Balance control: documents posting</value>
+  </synonym>
+  <source>
+    <types>DefinedType.BalanceControlDocuments</types>
+  </source>
+  <event>Posting</event>
+  <handler>CommonModule.BalanceControl.BalanceControl_Documents_Posting</handler>
+</mdclass:EventSubscription>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:EventSubscription xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="40d30b6d-b2bb-494f-bea6-731579ee3853">
+  <name>КонтрольОстатков_Документы_ПриЗаписи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контроль остатков: документы при записи</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Balance control: documents on write</value>
+  </synonym>
+  <source>
+    <types>DefinedType.ДокументыПодКонтролем</types>
+  </source>
+  <event>OnWrite</event>
+  <handler>CommonModule.БиблиотекаКонтроляОстатков.КонтрольОстатков_Документы_ПриЗаписи</handler>
+</mdclass:EventSubscription>
